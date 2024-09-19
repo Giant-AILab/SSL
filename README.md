@@ -12,7 +12,7 @@ in _ECCV 2024 workshop_
 
 ## Pipeline
 
- Co-speech gesture video generation pipeline of our proposed method consists of three main components: 1) the latent deviation extractor (orange) 2) the latent deviation decoder (blue) 3) the latent motion diffusion (green).
+ Co-speech gesture video generation pipeline of our proposed method consists of three main components: 1) the latent deviation extractor (orange) 2) the latent deviation decoder (blue) 3) the latent motion diffusion (green).
 
 ![image](https://github.com/user-attachments/assets/5723b685-2fb8-4ecf-ab7c-309f83bb07b7)
 
@@ -27,3 +27,6 @@ in _ECCV 2024 workshop_
 [![](https://i.ytimg.com/vi/HPRfwyL4vMc/maxresdefault.jpg)](https://youtu.be/HPRfwyL4vMc "")
 
 [![](https://i.ytimg.com/vi/U8i7QRGOQGo/maxresdefault.jpg)](https://youtu.be/U8i7QRGOQGo "")
+
+## Code
+Coming soon...
