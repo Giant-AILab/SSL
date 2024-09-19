@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/77a9b642-f41b-401a-85a4-601f4ca9754e)# Self-Supervised Learning of Deviation in Latent Representation for Co-speech Gesture Video Generation
+# Self-Supervised Learning of Deviation in Latent Representation for Co-speech Gesture Video Generation
 
 Huan Yang*, Jiahui Chen*, Chaofan Ding, Runhua Shi, Siyu Xiong, Qingqi Hong, Xiaoqi Mo, Xinhan Di
 
