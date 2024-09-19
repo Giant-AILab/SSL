@@ -1,8 +1,8 @@
 # Self-Supervised Learning of Deviation in Latent Representation for Co-speech Gesture Video Generation
 
-Huan Yang*, Jiahui Chen*, Chaofan Ding, Runhua Shi, Siyu Xiong, Qingqi Hong, Xiaoqi Mo, Xinhan Di
+Huan Yang*<sup>1</sup>, Jiahui Chen*<sup>1, 2</sup>, Chaofan Ding<sup>1</sup>, Runhua Shi<sup>1</sup>, Siyu Xiong<sup>1</sup>, Qingqi Hong<sup>2</sup>, Xiaoqi Mo<sup>1</sup>, Xinhan Di<sup>1</sup>
 
-Giant Interactive Group Inc & AI Lab, Xiamen University
+1 Giant Interactive Group Inc & AI Lab, 2 Xiamen University
 
 *Denotes Equal Contribution
 
