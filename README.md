@@ -16,6 +16,10 @@ in _ECCV 2024 workshop_
 
 ![image](https://github.com/user-attachments/assets/5723b685-2fb8-4ecf-ab7c-309f83bb07b7)
 
+## Generated video
+
+
+
 ## Visual comparison
 
 ![image](https://github.com/user-attachments/assets/9a7cfca4-d46b-4fc4-9df2-fd9d9e2aceed)
