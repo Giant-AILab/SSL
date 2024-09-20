@@ -28,7 +28,7 @@ in _ECCV 2024 workshop_
 
 ## Generated video comparison
 
-[![](https://i.ytimg.com/vi/HPRfwyL4vMc/maxresdefault.jpg)](https://youtu.be/HPRfwyL4vMc "")
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1726822479/video_to_markdown/images/youtube--HPRfwyL4vMc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=HPRfwyL4vMc&ab_channel=CaffeyChen "")
 
 [![](https://i.ytimg.com/vi/U8i7QRGOQGo/maxresdefault.jpg)](https://youtu.be/U8i7QRGOQGo "")
 
