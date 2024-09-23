@@ -26,29 +26,8 @@ We structured the training process into two stages. In the first stage, a drivin
 
 ## Generated video
 
-https://github.com/user-attachments/assets/fa42b5b7-1c26-45ce-be92-48d3e8f742a5
-
-https://github.com/user-attachments/assets/3f7fe2ad-ce7a-4840-bf71-fa85f0cffa9e
 
 
-https://github.com/user-attachments/assets/4fbc4650-e3ac-4fce-95c0-47d21a9f3e1d
-
-https://github.com/user-attachments/assets/01cb2e94-89b0-40b3-93e5-3770de103911
-
-
-https://github.com/user-attachments/assets/5d718e63-a796-4ecd-8177-96b781565972
-
-https://github.com/user-attachments/assets/8c7be06c-ac78-41b2-800f-639f08eee219
-
-
-https://github.com/user-attachments/assets/ab28b2ec-e7c8-47c0-b4a8-a0cbd3f5d531
-
-https://github.com/user-attachments/assets/62c740d6-3a71-4fc1-a743-3f40b53fa191
-
-
-https://github.com/user-attachments/assets/84d0dc10-e5ad-42fc-93b1-3309fca1dabb
-
-https://github.com/user-attachments/assets/83710667-655e-40b1-b358-c25fcfc3be1a
 
 ## Visual comparison
 
