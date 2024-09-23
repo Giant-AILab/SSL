@@ -22,7 +22,7 @@ We propose a novel method for generating co-speech gesture videos, utilizing a s
 
 We structured the training process into two stages. In the first stage, a driving image $I_D$ and a source image $I_S$ are used to train the base model. In one aspect, the proposed latent deviation module consisting of latent deviation extractor, warping calculator and latent deviation decoder is trained under self-supervision. In another aspect, other modules in the base model is trained under full supervision. In the second stage, the self-supervised motion features, consisting of $MF_i$, $\hat{MF}_{[i − 4, i − 1]}$, and the noiseadded motion feature sequence $[MF_j]$, are used to train the latent motion diffusion model.
 
-![image](https://github.com/user-attachments/assets/5723b685-2fb8-4ecf-ab7c-309f83bb07b7)
+![image](https://github.com/user-attachments/assets/1c272364-bf2e-4210-9347-befa2a71f2c1)
 
 ## Generated video
 
