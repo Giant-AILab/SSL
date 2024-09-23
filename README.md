@@ -20,13 +20,19 @@ Gestures are pivotal in enhancing co-speech communication, while recent works ha
 
 We propose a novel method for generating co-speech gesture videos, utilizing a self-supervised full scene deviation, produces co-speech gesture video $V$ (i.e., image sequence) that exhibit natural poses and synchronized movements. The generation process takes as input the speaker’s speech audio a and a source image $I_S$.
 
-We structured the training process into two stages. In the first stage, a driving image $I_D$ and a source image $I_S$ are used to train the base model. In one aspect, the proposed latent deviation module consisting of latent deviation extractor, warping calculator and latent deviation decoder is trained under self-supervision. In another aspect, other modules in the base model is trained under full supervision. In the second stage, the self-supervised motion features, consisting of $MF_i$, $\hat{MF}_{[i − 4, i − 1]}$, and the noiseadded motion feature sequence ${MF_j}$, are used to train the latent motion diffusion model.
+We structured the training process into two stages. In the first stage, a driving image $I_D$ and a source image $I_S$ are used to train the base model. In one aspect, the proposed latent deviation module consisting of latent deviation extractor, warping calculator and latent deviation decoder is trained under self-supervision. In another aspect, other modules in the base model is trained under full supervision. In the second stage, the self-supervised motion features, consisting of $MF_i$, $\hat{MF}_{[i − 4, i − 1]}$, and the noiseadded motion feature sequence $[MF_j]$, are used to train the latent motion diffusion model.
 
 ![image](https://github.com/user-attachments/assets/5723b685-2fb8-4ecf-ab7c-309f83bb07b7)
 
 ## Generated video
 
+https://github.com/user-attachments/assets/d33781d8-c4c3-46f0-b04d-9c1b68bba849
 
+
+https://github.com/user-attachments/assets/bc3c01c5-d708-49d9-b72f-3dbc3e80b48b
+
+
+https://github.com/user-attachments/assets/b17c17ae-7ca6-4b52-ab0b-ef473a6ba731
 
 
 ## Visual comparison
