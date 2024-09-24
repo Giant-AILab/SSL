@@ -2,7 +2,7 @@
 
 _Huan Yang*<sup>1</sup>, Jiahui Chen*<sup>1, 2</sup>, Chaofan Ding<sup>1</sup>, Runhua Shi<sup>1</sup>, Siyu Xiong<sup>1</sup>, Qingqi Hong<sup>2</sup>, Xiaoqi Mo<sup>1</sup>, Xinhan Di<sup>1</sup>_
 
-1 Giant Interactive Group Inc & AI Lab, 2 Xiamen University
+1 Giant Network AI Lab, 2 Xiamen University
 
 *Denotes Equal Contribution
 
