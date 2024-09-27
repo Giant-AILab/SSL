@@ -7,6 +7,7 @@ _Huan Yang*<sup>1</sup>, Jiahui Chen*<sup>1, 2</sup>, Chaofan Ding<sup>1</sup>, 
 *Denotes Equal Contribution
 
 in _ECCV 2024 workshop_
+[paper](https://arxiv.org/abs/2409.17674)
 
 ![image](https://github.com/user-attachments/assets/c49ae05a-b3f2-4ef8-8524-b43410e7fc69)
 
