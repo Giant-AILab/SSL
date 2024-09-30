@@ -1,0 +1,3 @@
+opencv-python==4.9
+imageio==2.35.1
+numpy==1.24.4
