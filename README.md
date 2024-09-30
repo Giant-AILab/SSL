@@ -62,6 +62,11 @@ https://github.com/user-attachments/assets/da4c65ab-3d44-43cd-800f-b01a0e65c298
 ### Checkpoints
 [ckpts](https://drive.google.com/drive/folders/1f-PR3hkcT6ZHvdTiUBR16Hg-g6uNGvJ-?usp=sharing)
 
+### Test data
+[test data](https://drive.google.com/file/d/1Tl2fKMIQLn-qnxjCM_LN5uffK-5HCn0n/view?usp=drive_link)
+
+
+
 Coming soon...
 
 
