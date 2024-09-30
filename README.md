@@ -58,6 +58,10 @@ https://github.com/user-attachments/assets/da4c65ab-3d44-43cd-800f-b01a0e65c298
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1726822553/video_to_markdown/images/youtube--U8i7QRGOQGo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=U8i7QRGOQGo&ab_channel=CaffeyChen "")
 
 ## Code
+
+### Checkpoints
+[ckpts](https://drive.google.com/drive/folders/1f-PR3hkcT6ZHvdTiUBR16Hg-g6uNGvJ-?usp=sharing)
+
 Coming soon...
 
 
